@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=300&section=header&text=I'm%20SEOYUN&fontSize=90)
 
-## Hi there 👋
+### Hi there 👋
+
+<h1 align="center">Hi, Github</h1>
+<h3 align="center">I'm studying in Chungang Univ.</h3>
 
 <!--
 **csy55606/csy55606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
