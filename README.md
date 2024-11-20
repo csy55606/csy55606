@@ -5,8 +5,7 @@
 
 <h1 align="center">Hello</h1>
 
-<div align=center>
-	![header](https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=I'm%20SEOYUN&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=I'm%20SEOYUN&fontSize=50)
 
 <h3 align="center">I'm studying in Chungang Univ.</h3>
 
