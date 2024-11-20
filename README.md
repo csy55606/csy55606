@@ -13,9 +13,7 @@
 <a href="https://www.youtube.com/c/chlqufl012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csy55606&show_icons=true&locale=en" alt="csy55606" /></p>
-![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=csy55606&hide=contribs,prs)
-
+##<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csy55606&show_icons=true&locale=en" alt="csy55606" /></p>
 
 <!--
 **csy55606/csy55606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
