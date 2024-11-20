@@ -10,10 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chlqufl012@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012@gmail.com" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chlqufl012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csy55606&show_icons=true&locale=en" alt="csy55606" /></p>
+![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=csy55606&hide=contribs,prs)
 
 
 <!--
