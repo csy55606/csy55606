@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=300&section=header&text=I'm%20서윤&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=300&section=header&text=I'm%20SEOYUN&fontSize=90)
 
 ## Hi there 👋
 
