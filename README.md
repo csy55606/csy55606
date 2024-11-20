@@ -1,7 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat" alt="csy55606" /> </p>
 
 <h1 align="center">About Me</h1>
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=300&section=header&text=I'm%20SEOYUN&fontSize=90)
+
 <h3 align="center">I'm studying in Chungang Univ.</h3>
 
 <h3 align="left">Connect with me:</h3>
