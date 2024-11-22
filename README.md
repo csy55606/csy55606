@@ -14,17 +14,6 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 <h3 align="center">I'm studying in Chungang Univ.</h3>
 
 <h3 align="center">📖Learning with</h3>
-
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-<div align=center >
-	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
-	<img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
- 	<img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white" />
-</div>
 	
 <h3 align="center">🔗Connection</h3>
 <p align="center">
@@ -47,6 +36,17 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 ---
 
 ## 🛠 Tech Stack
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+<div align=center >
+	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
+	<img src="https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white" />
+</div>
+	
 ### Languages & Tools:
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
