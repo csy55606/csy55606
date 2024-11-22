@@ -25,8 +25,8 @@ My goal is to double major in urban engineering and design a virtual city
 
 ## 🌌 Project
 ### ⚾ **Pygame: HOP**    
-**Description:**  
-A 2D arcade game made from Python's Pygame library, where players jump the ball to the space bar to avoid obstacles, earn items, and score points. It features random obstacle creation, increasing difficulty, and collision handling.
+**Description:**  A 2D arcade game made from Python's Pygame library, where players jump the ball to the space bar to avoid obstacles, earn items, and score points. It features random obstacle creation, increasing difficulty, and collision handling.
+
 👉 _[Watch demo Video](https://youtu.be/eiY8ayqwVM4?si=aUHLG3makYrgroML)_   
 
 ---
