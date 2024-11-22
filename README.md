@@ -53,33 +53,17 @@ Produced a series of documentary-style short films highlighting societal issues,
 
 ---
 
-## 🚀 Achievements
-![Hackathon Winner](https://img.shields.io/badge/-Hackathon_Winner-blueviolet?style=flat-square)
-![Volunteer Architect](https://img.shields.io/badge/-Volunteer_Architect-green?style=flat-square)
-![Filmmaking Club Leader](https://img.shields.io/badge/-Filmmaking_Club_Leader-ff69b4?style=flat-square)
-
----
-
 ## 🌟 Personal Goals  
 - 🌌 Develop immersive **VR experiences** that inspire environmental awareness.  
 - 🛠 Master emerging tools like **Unity**, **Blender**, and advanced **VR/AR platforms**.  
 - 🤝 Collaborate on **tech-for-good** projects to make a tangible social impact.  
 
-**✨ Let's build something extraordinary together! Feel free to connect and collaborate.**
-
 ---
 
-## 🤝 Let's Collaborate!
-I'm open to collaborating on:
-- 🌍 Environmental projects combining **technology** and **design**.  
-- 🎥 **Creative media projects**, including films or VR experiences.  
-- 🛠 **Tech-for-good innovations** focused on social impact.
-
+## 🤝 Let's Collaborate
+contact:
 📧 **Email:** csy55606@naver.com  
-💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourname)  
-🌐 **Portfolio:** [Portfolio Website](https://yourportfolio.com)  
-
-**_"Together, we can turn ideas into reality."_**
+🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
