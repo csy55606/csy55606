@@ -17,11 +17,9 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 <h3 align="center">🔗Connection</h3>
 <p align="center">
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chlqufl012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
+<a href="https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
 </p>
 
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/choi._751)
-[![YouTube](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva)
 👉 _[Watch My Introduction Video](https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva)_  
 
 ---
