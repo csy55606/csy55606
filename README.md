@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat" alt="csy55606" /> </p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)<p align="left"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 # Hi, I'm 최서윤👋
@@ -18,6 +18,7 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/chlqufl012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
 </p>
+👉 _[Watch the Project on YouTube](https://youtube.com/watch?v=[your_video_id](https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva))_  
 
 ---
 
@@ -74,12 +75,13 @@ I'm open to collaborating on:
 - 🎥 **Creative media projects**, including films or VR experiences.  
 - 🛠 **Tech-for-good innovations** focused on social impact.
 
-📧 **Email:** yourname@example.com  
+📧 **Email:** csy55606@naver.com  
 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yourname)  
 🌐 **Portfolio:** [Portfolio Website](https://yourportfolio.com)  
 
 **_"Together, we can turn ideas into reality."_**
 
 ---
-
+<img src="https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat" alt="csy55606" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
 
