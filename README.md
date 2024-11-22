@@ -47,7 +47,7 @@ Produced a series of documentary-style short films highlighting societal issues,
 
 ## 🤝 Let's Collaborate
 contact:
-<div/>
+
 -📧 **Email:** csy55606@naver.com  
 -🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
 -🔗 Instagram Link
