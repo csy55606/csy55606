@@ -3,7 +3,7 @@
 
  # Introduction & Interests
 
-🏫 **Attending Chung-ang Univ.** | 🎥 **Majoring in Art & Technology**
+### 🏫 Attending Chung-ang Univ. | 🎥 Majoring in Art & Technology
 🌟 My goal is to double major in urban engineering and design a virtual city
 
 👉 _[Watch My Introduction Video](https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva)_  
