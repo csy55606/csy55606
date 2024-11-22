@@ -41,7 +41,7 @@ contact:
 
 -📧 **Email:** csy55606@naver.com 
 
--🌐 **Portfolio:**
+-🌐 **Portfolio**
 <a href="https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCjAfgJrqPHLCcxwM1H0sXEA" height="30" width="40" /></a>
 
 -🔗 **Instagram Link**
