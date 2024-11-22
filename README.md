@@ -1,7 +1,7 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=Hi,%20I'm%20ChoiSeoYun👋&fontSize=50" />
 
- # Introduction & Interests
+## Introduction & Interests
 
 ### 🏫 Attending Chung-ang Univ. | 🎥 Majoring in Art & Technology
 🌟 My goal is to double major in urban engineering and design a virtual city
@@ -44,5 +44,5 @@ contact:
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=footer&text=&fontSize=45)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=45)
 
