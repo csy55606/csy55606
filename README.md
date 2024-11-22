@@ -1,7 +1,7 @@
-# Hi, I'm ChoiSeoyun👋
-
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=CAU%20ARTandTECH%20&%20TECH&fontSize=50" />
+	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=Hi,_I'm_ChoiSeoyun👋&fontSize=50" />
+
+ # Introduction & Interests
 
 🏫 **Attending Chung-ang Univ.** | 🎥 **Majoring in Art & Technology**
 
@@ -9,12 +9,6 @@ Club Activities: 🏠Architectural Volunteer | 🤿Scuba Diving | 🎬Movie | �
 
 🌟 **Personal Goal**
 My goal is to double major in urban engineering and design a virtual city
-
-<h3 align="center">🔗Connection</h3>
-<p align="center">
-<a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
-<a href="https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
-</p>
 
 👉 _[Watch My Introduction Video](https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva)_  
 
@@ -62,6 +56,11 @@ Produced a series of documentary-style short films highlighting societal issues,
 contact:
 -📧 **Email:** csy55606@naver.com  
 -🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
+<h3 align="center">🔗Connection</h3>
+<p align="center">
+<a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
+<a href="https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
+</p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
