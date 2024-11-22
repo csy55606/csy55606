@@ -1,4 +1,3 @@
-![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=footer&text=&fontSize=45)
 # Hi, I'm ChoiSeoyun👋
 
 <div align=center>
@@ -61,6 +60,7 @@ contact:
 📧 **Email:** csy55606@naver.com  
 🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
 
----
+
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=footer&text=&fontSize=45)
 
