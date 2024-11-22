@@ -1,10 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat" alt="csy55606" /> </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<h1 align="center">Hello</h1>
+# 👋 Hi, I'm 최서윤!
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=I'm%20SEOYUN&fontSize=50" />
+	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=CAU%20ART%20&%20TECH&fontSize=50" />
+
+🎨 **Art and Technology Enthusiast** | 🎥 **Filmmaker & VR Content Creator** | 🏛 **Sustainable Design Advocate**  
+
+Passionate about merging **creativity** with **technology** to solve real-world problems.  
+I'm currently focused on exploring innovative **VR storytelling**, eco-friendly **architectural solutions**, and fostering a culture of **responsible media consumption**.
 
 <h3 align="center">I'm studying in Chungang Univ.</h3>
 
@@ -31,12 +36,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
-# 👋 Hi, I'm 최서윤!
-
-🎨 **Art and Technology Enthusiast** | 🎥 **Filmmaker & VR Content Creator** | 🏛 **Sustainable Design Advocate**  
-
-Passionate about merging **creativity** with **technology** to solve real-world problems.  
-I'm currently focused on exploring innovative **VR storytelling**, eco-friendly **architectural solutions**, and fostering a culture of **responsible media consumption**.
 
 ---
 
@@ -108,5 +107,4 @@ I'm open to collaborating on:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
 
