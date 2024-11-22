@@ -23,20 +23,11 @@ My goal is to double major in urban engineering and design a virtual city
 
 ---
 
-## 🌌 Projects
-### 1. 🚀 **VR Colonization Experience**  
-**Tools Used:** Cospaces, Blender  
+## 🌌 Project
+### ⚾ **Pygame: HOP**    
 **Description:**  
-Designed an immersive VR project titled _"Leaving Earth to Colonize a New Planet"_. The experience combines interactive storytelling with futuristic design to explore the challenges of interstellar colonization.  
-
-👉 _[Watch the Project](#)_  
-
-### 2. 📽 **Short Films: A Voice for Change**  
-**Tools Used:** Adobe Premiere Pro, DSLR Cameras  
-**Description:**  
-Produced a series of documentary-style short films highlighting societal issues, including urban waste management and sustainable development in local communities.
-
-👉 _[View Film Portfolio](#)_  
+A 2D arcade game made from Python's Pygame library, where players jump the ball to the space bar to avoid obstacles, earn items, and score points. It features random obstacle creation, increasing difficulty, and collision handling.
+👉 _[Watch demo Video](https://youtu.be/eiY8ayqwVM4?si=aUHLG3makYrgroML)_   
 
 ---
 
@@ -48,11 +39,12 @@ Produced a series of documentary-style short films highlighting societal issues,
 ## 🤝 Let's Collaborate
 contact:
 
--📧 **Email:** csy55606@naver.com  
+-📧 **Email:** csy55606@naver.com 
+
 -🌐 **Portfolio:**
 <a href="https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCjAfgJrqPHLCcxwM1H0sXEA" height="30" width="40" /></a>
 
--🔗 Instagram Link
+-🔗 **Instagram Link**
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
