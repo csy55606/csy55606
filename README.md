@@ -4,11 +4,7 @@
  # Introduction & Interests
 
 🏫 **Attending Chung-ang Univ.** | 🎥 **Majoring in Art & Technology**
-
-Club Activities: 🏠Architectural Volunteer | 🤿Scuba Diving | 🎬Movie | 🎫Exhibition
-
-🌟 **Personal Goal**
-My goal is to double major in urban engineering and design a virtual city
+🌟 My goal is to double major in urban engineering and design a virtual city
 
 👉 _[Watch My Introduction Video](https://youtu.be/r9hg4aqLhOE?si=BaA5UwnJei7L9Bva)_  
 
@@ -24,7 +20,7 @@ My goal is to double major in urban engineering and design a virtual city
 ---
 
 ## 🌌 Project
-### ⚾ **Pygame: HOP**    
+### Pygame: HOP   
 **Description:**  A 2D arcade game made from Python's Pygame library, where players jump the ball to the space bar to avoid obstacles, earn items, and score points. It features random obstacle creation, increasing difficulty, and collision handling.
 
 👉 _[Watch demo Video](https://youtu.be/eiY8ayqwVM4?si=aUHLG3makYrgroML)_   
