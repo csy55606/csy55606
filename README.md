@@ -50,6 +50,8 @@ contact:
 
 -📧 **Email:** csy55606@naver.com  
 -🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
+<a href="https://www.youtube.com/c/ucjafgjrqphlccxwm1h0sxea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjafgjrqphlccxwm1h0sxea" height="30" width="40" /></a>
+</p>
 -🔗 Instagram Link
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
 
