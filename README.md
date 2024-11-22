@@ -3,11 +3,11 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=CAU%20ARTandTECH%20&%20TECH&fontSize=50" />
 
-## 🏫 Attending Chung-ang Univ. | 🎥 Majoring in Art & Technology
+🏫 **Attending Chung-ang Univ.** | 🎥 **Majoring in Art & Technology**
 
-**Club Activities**: 🏠Architectural Volunteer | 🤿Scuba Diving | 🎬Movie | 🎫Exhibition
+Club Activities: 🏠Architectural Volunteer | 🤿Scuba Diving | 🎬Movie | 🎫Exhibition
 
-## 🌟 Personal Goals 
+🌟 **Personal Goal**
 My goal is to double major in urban engineering and design a virtual city
 
 <h3 align="center">🔗Connection</h3>
