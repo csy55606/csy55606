@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <p align="left"> 
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=300&section=header&text=어쩌구저쩌&fontSize=0" width="100%"/>
 
 # Hi, I'm 최서윤👋
 
@@ -11,8 +11,6 @@
 
 Passionate about merging **creativity** with **technology** to solve real-world problems.  
 I'm currently focused on exploring innovative **VR storytelling**, eco-friendly **architectural solutions**, and fostering a culture of **responsible media consumption**.
-
-<h3 align="center">I'm studying in Chungang Univ.</h3>
 
 <h3 align="center">🔗Connection</h3>
 <p align="center">
@@ -84,6 +82,5 @@ I'm open to collaborating on:
 **_"Together, we can turn ideas into reality."_**
 
 ---
-<img src="https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat" alt="csy55606" /> </p>
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
 
