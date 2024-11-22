@@ -2,7 +2,7 @@
 # Hi, I'm 최서윤👋
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=CAU%20ART%20&%20TECH&fontSize=50" />
+	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=CAU%20ARTandTECH%20&%20TECH&fontSize=50" />
 
 🎨 **Art and Technology Enthusiast** | 🎥 **Filmmaker & VR Content Creator** | 🏛 **Sustainable Design Advocate**  
 
