@@ -47,15 +47,10 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 </div>
 	
 ### 📖Learning with:
-![VS Code](https://img.shields.io/badge/-VS_Code-0078d?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=flat&logo=chocolatey&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=flat&logo=chocolatey&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus&logoColor=white)
 
-- ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-- ![Adobe illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-- ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white)
+- ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white)
 
 ---
 
