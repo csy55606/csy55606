@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=45)
-
 # Hi, I'm 최서윤👋
 
 <div align=center>
