@@ -13,8 +13,6 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 
 <h3 align="center">I'm studying in Chungang Univ.</h3>
 
-<h3 align="center">📖Learning with</h3>
-	
 <h3 align="center">🔗Connection</h3>
 <p align="center">
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
@@ -36,6 +34,7 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 ---
 
 ## 🛠 Tech Stack
+<h3 align="center">📖Learning with</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white" />
@@ -47,17 +46,16 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
  	<img src="https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white" />
 </div>
 	
-### Languages & Tools:
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![Cospaces](https://img.shields.io/badge/-Cospaces-4285F4?style=flat-square&logo=google)
+### 📖Learning with:
+![VS Code](https://img.shields.io/badge/-VS_Code-0078d?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Chocolatey](https://img.shields.io/badge/-Chocolatey-80B5E3?style=flat&logo=chocolatey&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-3776AB?style=flat&logo=cplusplus&logoColor=white)
 
-### Creative Tools:
-- ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
-- ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-- ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+- ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+- ![Adobe illustrator](https://img.shields.io/badge/illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+- ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white)
 
 ---
 
