@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=Hi,%20I'm%20ChoiSeoyun👋&fontSize=50" />
+	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=Hi,%20I'm%20ChoiSeoYun👋&fontSize=50" />
 
  # Introduction & Interests
 
