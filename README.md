@@ -7,6 +7,9 @@
 
 **Club Activities**: 🏠Architectural Volunteer | 🤿Scuba Diving | 🎬Movie | 🎫Exhibition
 
+## 🌟 Personal Goals 
+My goal is to double major in urban engineering and design a virtual city
+
 <h3 align="center">🔗Connection</h3>
 <p align="center">
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
@@ -57,8 +60,8 @@ Produced a series of documentary-style short films highlighting societal issues,
 
 ## 🤝 Let's Collaborate
 contact:
-📧 **Email:** csy55606@naver.com  
-🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
+-📧 **Email:** csy55606@naver.com  
+-🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
