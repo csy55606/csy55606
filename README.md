@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=300&section=header&text=SEOYUN'S_GitHub&fontSize=45&fontColor=white)
-<p align="left"> 
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=300&section=header&text=어쩌구저쩌&fontSize=0" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=SEOYUN'S_GitHub&fontSize=45&fontColor=white)
 
 # Hi, I'm 최서윤👋
 
