@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=45)
-# Hi, I'm 최서윤👋
+![footer](https://capsule-render.vercel.app/api?type=waving&color=color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=footer&text=&fontSize=45)
+# Hi, I'm ChoiSeoyun👋
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6482ad,100:7fa1c3&height=150&section=header&text=CAU%20ARTandTECH%20&%20TECH&fontSize=50" />
 
-🎨 **Art and Technology Enthusiast** | 🎥 **Filmmaker & VR Content Creator** | 🏛 **Sustainable Design Advocate**  
+🏫 **Attending Chung-ang Univ.** | 🎥 **Majoring in Art & Technology**
 
-Passionate about merging **creativity** with **technology** to solve real-world problems.  
-I'm currently focused on exploring innovative **VR storytelling**, eco-friendly **architectural solutions**, and fostering a culture of **responsible media consumption**.
+Club Activities: 🏠Architectural Volunteer | 🤿Scuba Diving | 🎬Movie | 🎫Exhibition
 
 <h3 align="center">🔗Connection</h3>
 <p align="center">
