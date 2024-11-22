@@ -35,12 +35,12 @@
 ## 🤝 Let's Collaborate
 contact:
 
--📧 **Email:** csy55606@naver.com 
+- 📧 **Email:** csy55606@naver.com 
 
--🌐 **Portfolio**
+- 🌐 **Portfolio**
 <a href="https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCjAfgJrqPHLCcxwM1H0sXEA" height="30" width="40" /></a>
 
--🔗 **Instagram Link**
+- 🔗 **Instagram Link**
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=csy55606&label=Profile%20views&color=0e75b6&style=flat)
