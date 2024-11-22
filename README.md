@@ -49,9 +49,9 @@ Produced a series of documentary-style short films highlighting societal issues,
 contact:
 
 -📧 **Email:** csy55606@naver.com  
--🌐 **Portfolio:** [youtube](https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA)  
+-🌐 **Portfolio:**
 <a href="https://youtube.com/channel/UCjAfgJrqPHLCcxwM1H0sXEA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCjAfgJrqPHLCcxwM1H0sXEA" height="30" width="40" /></a>
-</p>
+
 -🔗 Instagram Link
 <a href="https://instagram.com/choi._751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choi._751" height="30" width="40" /></a>
 
