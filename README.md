@@ -32,8 +32,6 @@ I'm currently focused on exploring innovative **VR storytelling**, eco-friendly 
 <a href="https://www.youtube.com/c/chlqufl012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chlqufl012" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csy55606&show_icons=true&locale=en" alt="csy55606" /></p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
@@ -81,8 +79,8 @@ Produced a series of documentary-style short films highlighting societal issues,
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csy55606&show_icons=true&theme=shadow_red&count_private=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csy55606&show_icons=true&locale=en" alt="csy55606" /></p>
 
 ---
 
